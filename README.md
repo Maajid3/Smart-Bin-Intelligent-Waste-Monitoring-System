@@ -1,2 +1,2 @@
 # Smart-Bin-Intelligent-Waste-Monitoring-System
- SmartBin is a smart waste management system using sensors and a Raspberry Pi 5 to monitor temperature, gas, humidity, and waste distance. With a camera for live footage and images, it provides real-time updates via a Kotlin-based Android app. Powered by a Node.js backend, Smart Bin promotes efficient and intelligent waste management practices.
+SmartBin is a smart waste management system using sensors and Raspberry Pi 5 to monitor temperature, gas, humidity, and waste distance. It features a camera for live footage, real-time updates via a Kotlin-based Android app, a Node.js backend, bin tracking with maps, and a complaint option to report issues, ensuring efficient waste management.
